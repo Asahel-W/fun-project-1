@@ -1,0 +1,24 @@
+12/17/2021
+3:10 pm MST
+
+---- FRONT END ----
+
+Upper left corner -
+	include menu page on every page
+
+front page -
+	menu bar with links to services, about us*, location/times, products
+	button for scheduling*
+	show all services
+
+Supplement page -
+	see the supplements
+	sell the supplements*
+
+---- BACK END ----
+
+use angular
+
+mysql
+
+meet again sunday 12/19/2021 to show off our database schemas
